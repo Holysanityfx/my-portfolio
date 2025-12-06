@@ -1,4 +1,4 @@
-import Mort from "../assets/images/mortgga.png"
+import Mort from "../assets/images/Mortgga.png"
 import Short from "../assets/images/shortlink.png"
 import Sunny from "../assets/images/sunnyside.png"
 import Todo from "../assets/images/todo.png"
